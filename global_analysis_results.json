@@ -1,0 +1,25 @@
+{
+  "sentiment": 0.17895404188940284,
+  "emotions": {
+    "AFRAID": 0.1034609239633156,
+    "AMUSED": 0.14933538426844742,
+    "ANGRY": 0.09183312733181023,
+    "ANNOYED": 0.10810151063060289,
+    "DONT_CARE": 0.126673519629577,
+    "HAPPY": 0.12741851372232613,
+    "INSPIRED": 0.16438422347714227,
+    "SAD": 0.12879279697677856
+  },
+  "words_by_emotion": {
+    "ANGRY": 535,
+    "AFRAID": 750,
+    "INSPIRED": 2684,
+    "AMUSED": 928,
+    "HAPPY": 358,
+    "SAD": 1026,
+    "ANNOYED": 607,
+    "DONT_CARE": 600
+  },
+  "total_words_processed": 27156,
+  "total_nbr_of_emotional_words": 7488
+}

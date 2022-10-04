@@ -1,0 +1,1434 @@
+{
+  "The Raven": {
+    "emotions": {
+      "AFRAID": 0.10912847203595098,
+      "AMUSED": 0.17037007765636916,
+      "ANGRY": 0.09043407375931002,
+      "ANNOYED": 0.11092538193654466,
+      "DONT_CARE": 0.11929792296262845,
+      "HAPPY": 0.12175768554534525,
+      "INSPIRED": 0.16170052640390423,
+      "SAD": 0.11638585969994725
+    },
+    "sentiment": -0.07450731707317074,
+    "words_by_emotion": {
+      "ANGRY": 17,
+      "AFRAID": 37,
+      "INSPIRED": 99,
+      "AMUSED": 52,
+      "HAPPY": 10,
+      "SAD": 43,
+      "ANNOYED": 31,
+      "DONT_CARE": 29
+    },
+    "elapsed_ms": 314,
+    "nbr_of_words_processed": 1153,
+    "nbr_of_emotional_words": 318
+  },
+  "The Bells": {
+    "emotions": {
+      "AFRAID": 0.0920757485305322,
+      "AMUSED": 0.15598613870922934,
+      "ANGRY": 0.08032570136920576,
+      "ANNOYED": 0.0893700863259324,
+      "DONT_CARE": 0.1367047417079954,
+      "HAPPY": 0.14489030844897663,
+      "INSPIRED": 0.16704744803672156,
+      "SAD": 0.13359982687140678
+    },
+    "sentiment": -0.006520000000000006,
+    "words_by_emotion": {
+      "INSPIRED": 49,
+      "AFRAID": 11,
+      "SAD": 12,
+      "ANNOYED": 7,
+      "AMUSED": 18,
+      "HAPPY": 15,
+      "DONT_CARE": 5,
+      "ANGRY": 5
+    },
+    "elapsed_ms": 97,
+    "nbr_of_words_processed": 636,
+    "nbr_of_emotional_words": 122
+  },
+  "Ulalume": {
+    "emotions": {
+      "AFRAID": 0.09887261402820505,
+      "AMUSED": 0.18783078220960564,
+      "ANGRY": 0.08069496315381908,
+      "ANNOYED": 0.10817112748985427,
+      "DONT_CARE": 0.11130305172839536,
+      "HAPPY": 0.13027796730858276,
+      "INSPIRED": 0.16646404995708675,
+      "SAD": 0.11638544412445109
+    },
+    "sentiment": 0.06477142857142858,
+    "words_by_emotion": {
+      "SAD": 26,
+      "AMUSED": 21,
+      "HAPPY": 9,
+      "INSPIRED": 45,
+      "ANNOYED": 12,
+      "AFRAID": 12,
+      "ANGRY": 5,
+      "DONT_CARE": 13
+    },
+    "elapsed_ms": 95,
+    "nbr_of_words_processed": 714,
+    "nbr_of_emotional_words": 143
+  },
+  "To Helen": {
+    "emotions": {
+      "AFRAID": 0.1588142680175666,
+      "AMUSED": 0.12848756547231344,
+      "ANGRY": 0.09570395912893513,
+      "ANNOYED": 0.08765071047937933,
+      "DONT_CARE": 0.13675638438611926,
+      "HAPPY": 0.11434503946598679,
+      "INSPIRED": 0.15752995147407148,
+      "SAD": 0.12071212157562801
+    },
+    "sentiment": 0.37048333333333333,
+    "words_by_emotion": {
+      "DONT_CARE": 4,
+      "AFRAID": 2,
+      "INSPIRED": 9,
+      "ANGRY": 4,
+      "SAD": 4,
+      "AMUSED": 4
+    },
+    "elapsed_ms": 24,
+    "nbr_of_words_processed": 91,
+    "nbr_of_emotional_words": 27
+  },
+  "Annabel Lee": {
+    "emotions": {
+      "AFRAID": 0.10085796026050352,
+      "AMUSED": 0.15948804726450908,
+      "ANGRY": 0.09044610512011304,
+      "ANNOYED": 0.12256245273380446,
+      "DONT_CARE": 0.12180633252948014,
+      "HAPPY": 0.12309263869936245,
+      "INSPIRED": 0.15815716677880645,
+      "SAD": 0.12358929661342082
+    },
+    "sentiment": 0.6642571428571429,
+    "words_by_emotion": {
+      "AMUSED": 16,
+      "HAPPY": 1,
+      "SAD": 5,
+      "ANGRY": 9,
+      "INSPIRED": 30,
+      "DONT_CARE": 2,
+      "ANNOYED": 8,
+      "AFRAID": 8
+    },
+    "elapsed_ms": 41,
+    "nbr_of_words_processed": 313,
+    "nbr_of_emotional_words": 79
+  },
+  "A Valentine": {
+    "emotions": {
+      "AFRAID": 0.09418812160707585,
+      "AMUSED": 0.14780601883157515,
+      "ANGRY": 0.10361001162310433,
+      "ANNOYED": 0.12493339254212092,
+      "DONT_CARE": 0.14339064585247194,
+      "HAPPY": 0.1263871178147504,
+      "INSPIRED": 0.14972364554654932,
+      "SAD": 0.10996104618235207
+    },
+    "sentiment": 0.10672999999999999,
+    "words_by_emotion": {
+      "INSPIRED": 20,
+      "DONT_CARE": 17,
+      "SAD": 4,
+      "AMUSED": 4,
+      "ANNOYED": 9,
+      "HAPPY": 8,
+      "ANGRY": 7,
+      "AFRAID": 5
+    },
+    "elapsed_ms": 35,
+    "nbr_of_words_processed": 222,
+    "nbr_of_emotional_words": 74
+  },
+  "An Enigma": {
+    "emotions": {
+      "AFRAID": 0.10911562355597412,
+      "AMUSED": 0.1625021340483569,
+      "ANGRY": 0.10212008888118415,
+      "ANNOYED": 0.10942539176886039,
+      "DONT_CARE": 0.11716593413227526,
+      "HAPPY": 0.11223075162806954,
+      "INSPIRED": 0.17830560111115226,
+      "SAD": 0.10913447487412756
+    },
+    "sentiment": 0.10478571428571429,
+    "words_by_emotion": {
+      "SAD": 1,
+      "INSPIRED": 13,
+      "ANNOYED": 1,
+      "AFRAID": 4,
+      "AMUSED": 4,
+      "DONT_CARE": 2,
+      "ANGRY": 3
+    },
+    "elapsed_ms": 25,
+    "nbr_of_words_processed": 118,
+    "nbr_of_emotional_words": 28
+  },
+  "To My Mother": {
+    "emotions": {
+      "AFRAID": 0.07515813283830862,
+      "AMUSED": 0.12911273462759873,
+      "ANGRY": 0.15548681849833243,
+      "ANNOYED": 0.09855396905640679,
+      "DONT_CARE": 0.10497842935502882,
+      "HAPPY": 0.1062215533639816,
+      "INSPIRED": 0.19125589254723585,
+      "SAD": 0.1392324697131073
+    },
+    "sentiment": 0.38158000000000003,
+    "words_by_emotion": {
+      "AFRAID": 1,
+      "SAD": 3,
+      "ANGRY": 5,
+      "HAPPY": 3,
+      "INSPIRED": 14,
+      "DONT_CARE": 2,
+      "AMUSED": 2
+    },
+    "elapsed_ms": 25,
+    "nbr_of_words_processed": 133,
+    "nbr_of_emotional_words": 30
+  },
+  "For Annie": {
+    "emotions": {
+      "AFRAID": 0.13128930359520657,
+      "AMUSED": 0.14083189874850713,
+      "ANGRY": 0.09395248653107022,
+      "ANNOYED": 0.10004132003340734,
+      "DONT_CARE": 0.12155008989005067,
+      "HAPPY": 0.1098832647650121,
+      "INSPIRED": 0.14963381017325733,
+      "SAD": 0.15281782626348858
+    },
+    "sentiment": 0.011411111111111113,
+    "words_by_emotion": {
+      "AFRAID": 18,
+      "SAD": 27,
+      "DONT_CARE": 6,
+      "INSPIRED": 45,
+      "AMUSED": 12,
+      "ANGRY": 5,
+      "HAPPY": 1,
+      "ANNOYED": 2
+    },
+    "elapsed_ms": 71,
+    "nbr_of_words_processed": 479,
+    "nbr_of_emotional_words": 116
+  },
+  "To Fâ€”â€”": {
+    "emotions": {
+      "AFRAID": 0.09420934930229756,
+      "AMUSED": 0.12373236874976369,
+      "ANGRY": 0.10287780119955116,
+      "ANNOYED": 0.10920945115119714,
+      "DONT_CARE": 0.12596448017613873,
+      "HAPPY": 0.1241999539878406,
+      "INSPIRED": 0.17075876778149168,
+      "SAD": 0.14904782765171934
+    },
+    "sentiment": 0.36214,
+    "words_by_emotion": {
+      "ANNOYED": 1,
+      "INSPIRED": 7,
+      "ANGRY": 4,
+      "AMUSED": 2,
+      "SAD": 2,
+      "AFRAID": 4,
+      "HAPPY": 1
+    },
+    "elapsed_ms": 24,
+    "nbr_of_words_processed": 89,
+    "nbr_of_emotional_words": 21
+  },
+  "To Frances S. Osgood": {
+    "emotions": {
+      "AFRAID": 0.07388012412207876,
+      "AMUSED": 0.15506693797403245,
+      "ANGRY": 0.09598862417014115,
+      "ANNOYED": 0.12534715191389884,
+      "DONT_CARE": 0.13060807911087718,
+      "HAPPY": 0.1328063377952358,
+      "INSPIRED": 0.19488476180714234,
+      "SAD": 0.09141798310659352
+    },
+    "sentiment": 0.549525,
+    "words_by_emotion": {
+      "INSPIRED": 15,
+      "AMUSED": 2,
+      "DONT_CARE": 3,
+      "ANGRY": 2,
+      "ANNOYED": 2
+    },
+    "elapsed_ms": 14,
+    "nbr_of_words_processed": 59,
+    "nbr_of_emotional_words": 24
+  },
+  "Eldorado": {
+    "emotions": {
+      "AFRAID": 0.09497319251688495,
+      "AMUSED": 0.14810856323152233,
+      "ANGRY": 0.0998047304525903,
+      "ANNOYED": 0.11407861975297695,
+      "DONT_CARE": 0.13900197211466397,
+      "HAPPY": 0.13136250485419132,
+      "INSPIRED": 0.17014016236432514,
+      "SAD": 0.10253025471284505
+    },
+    "sentiment": 0.38167999999999996,
+    "words_by_emotion": {
+      "HAPPY": 4,
+      "DONT_CARE": 2,
+      "INSPIRED": 8,
+      "AMUSED": 3,
+      "SAD": 2,
+      "ANGRY": 1
+    },
+    "elapsed_ms": 21,
+    "nbr_of_words_processed": 100,
+    "nbr_of_emotional_words": 20
+  },
+  "Eulalie": {
+    "emotions": {
+      "AFRAID": 0.09020414137716254,
+      "AMUSED": 0.14938574085397893,
+      "ANGRY": 0.07407758336110842,
+      "ANNOYED": 0.09714803451233535,
+      "DONT_CARE": 0.1494961958317915,
+      "HAPPY": 0.14455954174299035,
+      "INSPIRED": 0.17796679694898732,
+      "SAD": 0.11716196537164562
+    },
+    "sentiment": 0.33991999999999994,
+    "words_by_emotion": {
+      "INSPIRED": 22,
+      "AMUSED": 5,
+      "AFRAID": 3,
+      "SAD": 3,
+      "DONT_CARE": 6,
+      "ANNOYED": 1,
+      "ANGRY": 1
+    },
+    "elapsed_ms": 20,
+    "nbr_of_words_processed": 143,
+    "nbr_of_emotional_words": 41
+  },
+  "A Dream within a Dream": {
+    "emotions": {
+      "AFRAID": 0.08542939723604562,
+      "AMUSED": 0.14759732313784188,
+      "ANGRY": 0.0839968608086634,
+      "ANNOYED": 0.10577263810921068,
+      "DONT_CARE": 0.1439335433698161,
+      "HAPPY": 0.12066792580031471,
+      "INSPIRED": 0.19003738956295754,
+      "SAD": 0.12256492197515005
+    },
+    "sentiment": 0.24633636363636366,
+    "words_by_emotion": {
+      "AMUSED": 7,
+      "INSPIRED": 13,
+      "ANNOYED": 7,
+      "ANGRY": 2,
+      "SAD": 7,
+      "HAPPY": 2,
+      "DONT_CARE": 1,
+      "AFRAID": 1
+    },
+    "elapsed_ms": 27,
+    "nbr_of_words_processed": 151,
+    "nbr_of_emotional_words": 40
+  },
+  "Marie Louise (Shew)": {
+    "emotions": {
+      "AFRAID": 0.08953817940072327,
+      "AMUSED": 0.12289632353373668,
+      "ANGRY": 0.09448728063909845,
+      "ANNOYED": 0.13331231816264594,
+      "DONT_CARE": 0.12662662507422517,
+      "HAPPY": 0.1185187903468829,
+      "INSPIRED": 0.18814549427558902,
+      "SAD": 0.12647498856709846
+    },
+    "sentiment": 0.4788333333333334,
+    "words_by_emotion": {
+      "INSPIRED": 16,
+      "ANGRY": 2,
+      "DONT_CARE": 2,
+      "SAD": 6,
+      "HAPPY": 2,
+      "ANNOYED": 2,
+      "AMUSED": 1,
+      "AFRAID": 2
+    },
+    "elapsed_ms": 24,
+    "nbr_of_words_processed": 154,
+    "nbr_of_emotional_words": 33
+  },
+  "(2) To Marie Louise (Shew) ": {
+    "emotions": {
+      "AFRAID": 0.08561786908371127,
+      "AMUSED": 0.14348960931045174,
+      "ANGRY": 0.11040485888905506,
+      "ANNOYED": 0.11005955380031658,
+      "DONT_CARE": 0.12962333465149065,
+      "HAPPY": 0.12987024181746057,
+      "INSPIRED": 0.15614982686548076,
+      "SAD": 0.13478470558203337
+    },
+    "sentiment": 0.22696666666666668,
+    "words_by_emotion": {
+      "AMUSED": 7,
+      "SAD": 4,
+      "INSPIRED": 22,
+      "AFRAID": 8,
+      "ANNOYED": 5,
+      "ANGRY": 7,
+      "HAPPY": 3,
+      "DONT_CARE": 4
+    },
+    "elapsed_ms": 38,
+    "nbr_of_words_processed": 222,
+    "nbr_of_emotional_words": 60
+  },
+  "The City in the Sea": {
+    "emotions": {
+      "AFRAID": 0.11000167688709364,
+      "AMUSED": 0.20099187832935364,
+      "ANGRY": 0.09347642446927505,
+      "ANNOYED": 0.11529714674918247,
+      "DONT_CARE": 0.11370873080341257,
+      "HAPPY": 0.12344856194240549,
+      "INSPIRED": 0.13727676163346555,
+      "SAD": 0.10579881918581155
+    },
+    "sentiment": -0.1512375,
+    "words_by_emotion": {
+      "DONT_CARE": 7,
+      "AMUSED": 15,
+      "AFRAID": 15,
+      "INSPIRED": 23,
+      "SAD": 12,
+      "ANNOYED": 4,
+      "ANGRY": 5,
+      "HAPPY": 2
+    },
+    "elapsed_ms": 60,
+    "nbr_of_words_processed": 342,
+    "nbr_of_emotional_words": 83
+  },
+  "The Sleeper": {
+    "emotions": {
+      "AFRAID": 0.10552054309638677,
+      "AMUSED": 0.15120798374334526,
+      "ANGRY": 0.09072690654057851,
+      "ANNOYED": 0.10515058570375214,
+      "DONT_CARE": 0.12176653458831503,
+      "HAPPY": 0.12360226275046578,
+      "INSPIRED": 0.17134875099244684,
+      "SAD": 0.1306764325847097
+    },
+    "sentiment": 0.047379166666666674,
+    "words_by_emotion": {
+      "ANGRY": 6,
+      "SAD": 22,
+      "INSPIRED": 43,
+      "AMUSED": 13,
+      "DONT_CARE": 12,
+      "HAPPY": 5,
+      "AFRAID": 8,
+      "ANNOYED": 5
+    },
+    "elapsed_ms": 74,
+    "nbr_of_words_processed": 389,
+    "nbr_of_emotional_words": 114
+  },
+  "Bridal Ballad": {
+    "emotions": {
+      "AFRAID": 0.0921275187265776,
+      "AMUSED": 0.1451159524185173,
+      "ANGRY": 0.08386099568233991,
+      "ANNOYED": 0.11430554897786026,
+      "DONT_CARE": 0.14608563006344855,
+      "HAPPY": 0.12817754220437463,
+      "INSPIRED": 0.17277236635557267,
+      "SAD": 0.11755444557130912
+    },
+    "sentiment": 0.3498285714285715,
+    "words_by_emotion": {
+      "DONT_CARE": 3,
+      "INSPIRED": 31,
+      "SAD": 6,
+      "HAPPY": 3,
+      "ANGRY": 3,
+      "ANNOYED": 4,
+      "AFRAID": 1,
+      "AMUSED": 2
+    },
+    "elapsed_ms": 28,
+    "nbr_of_words_processed": 186,
+    "nbr_of_emotional_words": 53
+  },
+  "Lenore": {
+    "emotions": {
+      "AFRAID": 0.09574849224889931,
+      "AMUSED": 0.13208738432153846,
+      "ANGRY": 0.08618160503835898,
+      "ANNOYED": 0.10389334870567661,
+      "DONT_CARE": 0.12710066178718876,
+      "HAPPY": 0.13067716510808183,
+      "INSPIRED": 0.16175563731148643,
+      "SAD": 0.16255570547876957
+    },
+    "sentiment": -0.11776500000000001,
+    "words_by_emotion": {
+      "HAPPY": 8,
+      "DONT_CARE": 11,
+      "INSPIRED": 41,
+      "SAD": 19,
+      "AFRAID": 4,
+      "AMUSED": 10,
+      "ANGRY": 5,
+      "ANNOYED": 6
+    },
+    "elapsed_ms": 69,
+    "nbr_of_words_processed": 333,
+    "nbr_of_emotional_words": 104
+  },
+  "To One in Paradise": {
+    "emotions": {
+      "AFRAID": 0.12373173314763025,
+      "AMUSED": 0.12632362034112388,
+      "ANGRY": 0.09388896352474184,
+      "ANNOYED": 0.10260123396720017,
+      "DONT_CARE": 0.13203312184210547,
+      "HAPPY": 0.14136206311127408,
+      "INSPIRED": 0.15733094797328262,
+      "SAD": 0.12272831609264166
+    },
+    "sentiment": -0.04446470588235294,
+    "words_by_emotion": {
+      "INSPIRED": 17,
+      "SAD": 8,
+      "ANGRY": 5,
+      "AMUSED": 5,
+      "DONT_CARE": 4,
+      "AFRAID": 4,
+      "HAPPY": 2
+    },
+    "elapsed_ms": 44,
+    "nbr_of_words_processed": 193,
+    "nbr_of_emotional_words": 45
+  },
+  "The Coliseum": {
+    "emotions": {
+      "AFRAID": 0.10896852005211269,
+      "AMUSED": 0.13476709831787292,
+      "ANGRY": 0.09589138223858447,
+      "ANNOYED": 0.1198675109646027,
+      "DONT_CARE": 0.1141845508823408,
+      "HAPPY": 0.11925511449022233,
+      "INSPIRED": 0.1573153032756697,
+      "SAD": 0.14975051977859433
+    },
+    "sentiment": 0.1283625,
+    "words_by_emotion": {
+      "AFRAID": 15,
+      "INSPIRED": 26,
+      "ANNOYED": 7,
+      "SAD": 15,
+      "AMUSED": 13,
+      "ANGRY": 6,
+      "HAPPY": 3,
+      "DONT_CARE": 6
+    },
+    "elapsed_ms": 67,
+    "nbr_of_words_processed": 386,
+    "nbr_of_emotional_words": 91
+  },
+  "The Haunted Palace": {
+    "emotions": {
+      "AFRAID": 0.10580556853284322,
+      "AMUSED": 0.14066461620565704,
+      "ANGRY": 0.08565677979242053,
+      "ANNOYED": 0.10847513973965463,
+      "DONT_CARE": 0.14636854712259417,
+      "HAPPY": 0.1301109770838358,
+      "INSPIRED": 0.15295464366802644,
+      "SAD": 0.12996372785496815
+    },
+    "sentiment": 0.3385833333333334,
+    "words_by_emotion": {
+      "INSPIRED": 21,
+      "ANNOYED": 5,
+      "SAD": 15,
+      "DONT_CARE": 11,
+      "AFRAID": 11,
+      "HAPPY": 7,
+      "AMUSED": 9,
+      "ANGRY": 3
+    },
+    "elapsed_ms": 48,
+    "nbr_of_words_processed": 268,
+    "nbr_of_emotional_words": 82
+  },
+  "The Conqueror Worm": {
+    "emotions": {
+      "AFRAID": 0.09214071049626339,
+      "AMUSED": 0.14136377925860089,
+      "ANGRY": 0.07435522501254958,
+      "ANNOYED": 0.10695170859190854,
+      "DONT_CARE": 0.13516822482169077,
+      "HAPPY": 0.14849208197592548,
+      "INSPIRED": 0.15696345036455378,
+      "SAD": 0.1445648194785076
+    },
+    "sentiment": -0.17160833333333333,
+    "words_by_emotion": {
+      "HAPPY": 8,
+      "SAD": 8,
+      "ANNOYED": 5,
+      "DONT_CARE": 6,
+      "INSPIRED": 20,
+      "AMUSED": 7,
+      "AFRAID": 5,
+      "ANGRY": 3
+    },
+    "elapsed_ms": 43,
+    "nbr_of_words_processed": 243,
+    "nbr_of_emotional_words": 62
+  },
+  "Silence": {
+    "emotions": {
+      "AFRAID": 0.0895219787828996,
+      "AMUSED": 0.13346012087893835,
+      "ANGRY": 0.11133853221595236,
+      "ANNOYED": 0.11038804794169516,
+      "DONT_CARE": 0.13087751374547835,
+      "HAPPY": 0.12159218256183152,
+      "INSPIRED": 0.18691410074456727,
+      "SAD": 0.1159075231286375
+    },
+    "sentiment": -0.03834285714285714,
+    "words_by_emotion": {
+      "INSPIRED": 10,
+      "AFRAID": 5,
+      "SAD": 5,
+      "HAPPY": 5,
+      "ANGRY": 5,
+      "AMUSED": 4,
+      "DONT_CARE": 3,
+      "ANNOYED": 1
+    },
+    "elapsed_ms": 29,
+    "nbr_of_words_processed": 124,
+    "nbr_of_emotional_words": 38
+  },
+  "Dreamland": {
+    "emotions": {
+      "AFRAID": 0.09312551523292995,
+      "AMUSED": 0.13795002385329044,
+      "ANGRY": 0.09851632248035498,
+      "ANNOYED": 0.1191016074940661,
+      "DONT_CARE": 0.1267334756252585,
+      "HAPPY": 0.1317832783085094,
+      "INSPIRED": 0.1569878718402602,
+      "SAD": 0.13580190516533053
+    },
+    "sentiment": -0.4241625,
+    "words_by_emotion": {
+      "HAPPY": 11,
+      "INSPIRED": 20,
+      "ANGRY": 8,
+      "DONT_CARE": 9,
+      "SAD": 19,
+      "AMUSED": 11,
+      "AFRAID": 3,
+      "ANNOYED": 2
+    },
+    "elapsed_ms": 61,
+    "nbr_of_words_processed": 358,
+    "nbr_of_emotional_words": 83
+  },
+  "To Zante": {
+    "emotions": {
+      "AFRAID": 0.09038859769773268,
+      "AMUSED": 0.1658421551466232,
+      "ANGRY": 0.1051775101845544,
+      "ANNOYED": 0.09140717467072873,
+      "DONT_CARE": 0.10214978146245436,
+      "HAPPY": 0.13054932224584637,
+      "INSPIRED": 0.18320837808612278,
+      "SAD": 0.13127708050593748
+    },
+    "sentiment": 0.1161846153846154,
+    "words_by_emotion": {
+      "SAD": 3,
+      "INSPIRED": 14,
+      "AFRAID": 1,
+      "AMUSED": 4,
+      "DONT_CARE": 2,
+      "HAPPY": 1,
+      "ANGRY": 1,
+      "ANNOYED": 1
+    },
+    "elapsed_ms": 36,
+    "nbr_of_words_processed": 108,
+    "nbr_of_emotional_words": 27
+  },
+  "Hymn": {
+    "emotions": {
+      "AFRAID": 0.05794161692273336,
+      "AMUSED": 0.224063246536624,
+      "ANGRY": 0.05255910182762566,
+      "ANNOYED": 0.1041423237897958,
+      "DONT_CARE": 0.19310471084135442,
+      "HAPPY": 0.10284552666430997,
+      "INSPIRED": 0.14336986291668422,
+      "SAD": 0.1219736105008726
+    },
+    "sentiment": 0.35396,
+    "words_by_emotion": {
+      "AMUSED": 3,
+      "INSPIRED": 8,
+      "SAD": 1,
+      "ANNOYED": 1,
+      "AFRAID": 2,
+      "DONT_CARE": 2,
+      "HAPPY": 1
+    },
+    "elapsed_ms": 20,
+    "nbr_of_words_processed": 88,
+    "nbr_of_emotional_words": 18
+  },
+  "Introduction (1831)": {
+    "emotions": {
+      "AFRAID": 0.08628018224546925,
+      "AMUSED": 0.15250746046499303,
+      "ANGRY": 0.10605413886201288,
+      "ANNOYED": 0.11839805567535976,
+      "DONT_CARE": 0.12052957404195322,
+      "HAPPY": 0.12917947013980077,
+      "INSPIRED": 0.1706218271038169,
+      "SAD": 0.11642929146659424
+    },
+    "sentiment": 0.13688207547169814,
+    "words_by_emotion": {
+      "ANGRY": 92,
+      "DONT_CARE": 63,
+      "HAPPY": 33,
+      "INSPIRED": 366,
+      "AFRAID": 43,
+      "SAD": 70,
+      "AMUSED": 92,
+      "ANNOYED": 88
+    },
+    "elapsed_ms": 406,
+    "nbr_of_words_processed": 2702,
+    "nbr_of_emotional_words": 847
+  },
+  "Sonnet â€” to Science": {
+    "emotions": {
+      "AFRAID": 0.11058136597178772,
+      "AMUSED": 0.15541829432229506,
+      "ANGRY": 0.08088944356792904,
+      "ANNOYED": 0.09398373991881938,
+      "DONT_CARE": 0.11664207610046841,
+      "HAPPY": 0.1288349177599544,
+      "INSPIRED": 0.1549147543937008,
+      "SAD": 0.15873540796504518
+    },
+    "sentiment": 0.3018333333333334,
+    "words_by_emotion": {
+      "INSPIRED": 11,
+      "SAD": 7,
+      "AFRAID": 2,
+      "ANGRY": 4,
+      "AMUSED": 3,
+      "ANNOYED": 3,
+      "DONT_CARE": 3,
+      "HAPPY": 1
+    },
+    "elapsed_ms": 28,
+    "nbr_of_words_processed": 119,
+    "nbr_of_emotional_words": 34
+  },
+  "Tamerlane": {
+    "emotions": {
+      "AFRAID": 0.09690701146230715,
+      "AMUSED": 0.14556486358733045,
+      "ANGRY": 0.09322339384862098,
+      "ANNOYED": 0.10952559911103693,
+      "DONT_CARE": 0.13246355846013358,
+      "HAPPY": 0.13235045408870624,
+      "INSPIRED": 0.16957492321836554,
+      "SAD": 0.12039019622349903
+    },
+    "sentiment": 0.27465636363636364,
+    "words_by_emotion": {
+      "AMUSED": 45,
+      "AFRAID": 37,
+      "INSPIRED": 181,
+      "ANNOYED": 28,
+      "ANGRY": 30,
+      "SAD": 54,
+      "DONT_CARE": 42,
+      "HAPPY": 18
+    },
+    "elapsed_ms": 280,
+    "nbr_of_words_processed": 1667,
+    "nbr_of_emotional_words": 435
+  },
+  "The Valley of Unrest": {
+    "emotions": {
+      "AFRAID": 0.11421716763699218,
+      "AMUSED": 0.13773701711663108,
+      "ANGRY": 0.06386495723995794,
+      "ANNOYED": 0.09613624947264963,
+      "DONT_CARE": 0.12460152776806584,
+      "HAPPY": 0.1660175616658221,
+      "INSPIRED": 0.1458624680554992,
+      "SAD": 0.1515630510443819
+    },
+    "sentiment": -0.14924285714285715,
+    "words_by_emotion": {
+      "AMUSED": 4,
+      "SAD": 10,
+      "ANNOYED": 3,
+      "INSPIRED": 10,
+      "DONT_CARE": 4,
+      "ANGRY": 3,
+      "AFRAID": 3,
+      "HAPPY": 4
+    },
+    "elapsed_ms": 27,
+    "nbr_of_words_processed": 168,
+    "nbr_of_emotional_words": 41
+  },
+  "To â€”â€”": {
+    "emotions": {
+      "AFRAID": 0.08901665191721252,
+      "AMUSED": 0.1373399572682247,
+      "ANGRY": 0.06789662201985527,
+      "ANNOYED": 0.10515490866534424,
+      "DONT_CARE": 0.11725854774823743,
+      "HAPPY": 0.13666205452350078,
+      "INSPIRED": 0.1740647938673695,
+      "SAD": 0.1726064639902556
+    },
+    "sentiment": 0.5487333333333333,
+    "words_by_emotion": {
+      "AMUSED": 1,
+      "HAPPY": 1,
+      "INSPIRED": 9,
+      "SAD": 4,
+      "DONT_CARE": 1,
+      "ANGRY": 1
+    },
+    "elapsed_ms": 11,
+    "nbr_of_words_processed": 82,
+    "nbr_of_emotional_words": 17
+  },
+  "To the River": {
+    "emotions": {
+      "AFRAID": 0.1651573001349875,
+      "AMUSED": 0.10288811559038777,
+      "ANGRY": 0.09898454103772168,
+      "ANNOYED": 0.07055842060316982,
+      "DONT_CARE": 0.09801025553797314,
+      "HAPPY": 0.10702784655360202,
+      "INSPIRED": 0.13966000037759466,
+      "SAD": 0.2177135201645635
+    },
+    "sentiment": 0.4522,
+    "words_by_emotion": {
+      "SAD": 4,
+      "ANGRY": 1,
+      "AFRAID": 4,
+      "DONT_CARE": 2,
+      "INSPIRED": 10,
+      "AMUSED": 1
+    },
+    "elapsed_ms": 16,
+    "nbr_of_words_processed": 86,
+    "nbr_of_emotional_words": 22
+  },
+  "Song": {
+    "emotions": {
+      "AFRAID": 0.08048033518782026,
+      "AMUSED": 0.17412286276767724,
+      "ANGRY": 0.06918946983706309,
+      "ANNOYED": 0.12636508174328492,
+      "DONT_CARE": 0.1393494327765645,
+      "HAPPY": 0.12232114924979874,
+      "INSPIRED": 0.15861887616028714,
+      "SAD": 0.12955279227750405
+    },
+    "sentiment": 0.3781,
+    "words_by_emotion": {
+      "ANNOYED": 2,
+      "DONT_CARE": 2,
+      "ANGRY": 2,
+      "AMUSED": 6,
+      "INSPIRED": 13,
+      "SAD": 4,
+      "AFRAID": 1
+    },
+    "elapsed_ms": 18,
+    "nbr_of_words_processed": 104,
+    "nbr_of_emotional_words": 30
+  },
+  "Spirits of the Dead": {
+    "emotions": {
+      "AFRAID": 0.10250403304861874,
+      "AMUSED": 0.16176158926958953,
+      "ANGRY": 0.10118279039241831,
+      "ANNOYED": 0.10962297191996147,
+      "DONT_CARE": 0.11811231848215689,
+      "HAPPY": 0.11702750094074346,
+      "INSPIRED": 0.16687330271266637,
+      "SAD": 0.12291549323384529
+    },
+    "sentiment": -0.14928333333333332,
+    "words_by_emotion": {
+      "SAD": 6,
+      "INSPIRED": 15,
+      "AMUSED": 6,
+      "AFRAID": 3,
+      "ANGRY": 3,
+      "ANNOYED": 6,
+      "HAPPY": 1,
+      "DONT_CARE": 3
+    },
+    "elapsed_ms": 33,
+    "nbr_of_words_processed": 191,
+    "nbr_of_emotional_words": 43
+  },
+  "A Dream": {
+    "emotions": {
+      "AFRAID": 0.10821622257528607,
+      "AMUSED": 0.14125754540311147,
+      "ANGRY": 0.08147491434324783,
+      "ANNOYED": 0.10488391205555564,
+      "DONT_CARE": 0.12709728331751546,
+      "HAPPY": 0.13250011136411194,
+      "INSPIRED": 0.18832159301424775,
+      "SAD": 0.11624841792692384
+    },
+    "sentiment": 0.25165,
+    "words_by_emotion": {
+      "AMUSED": 4,
+      "SAD": 4,
+      "INSPIRED": 14,
+      "ANNOYED": 3,
+      "ANGRY": 2,
+      "AFRAID": 3,
+      "HAPPY": 1,
+      "DONT_CARE": 1
+    },
+    "elapsed_ms": 24,
+    "nbr_of_words_processed": 104,
+    "nbr_of_emotional_words": 32
+  },
+  "Romance": {
+    "emotions": {
+      "AFRAID": 0.11978914696217423,
+      "AMUSED": 0.16998184735023406,
+      "ANGRY": 0.07953765438330504,
+      "ANNOYED": 0.10090619487710484,
+      "DONT_CARE": 0.12365050547036693,
+      "HAPPY": 0.13972615505098795,
+      "INSPIRED": 0.14490793682087363,
+      "SAD": 0.12150055908495332
+    },
+    "sentiment": 0.36096000000000006,
+    "words_by_emotion": {
+      "HAPPY": 4,
+      "SAD": 6,
+      "DONT_CARE": 3,
+      "INSPIRED": 15,
+      "AFRAID": 8,
+      "AMUSED": 8,
+      "ANGRY": 2,
+      "ANNOYED": 1
+    },
+    "elapsed_ms": 25,
+    "nbr_of_words_processed": 142,
+    "nbr_of_emotional_words": 47
+  },
+  "Fairyland": {
+    "emotions": {
+      "AFRAID": 0.11718449776481837,
+      "AMUSED": 0.2001318917802547,
+      "ANGRY": 0.08101445269689703,
+      "ANNOYED": 0.08629461778210937,
+      "DONT_CARE": 0.11568509391702884,
+      "HAPPY": 0.11979581461971088,
+      "INSPIRED": 0.16191863634961648,
+      "SAD": 0.11797499508956445
+    },
+    "sentiment": 0.15498571428571428,
+    "words_by_emotion": {
+      "HAPPY": 2,
+      "AFRAID": 6,
+      "DONT_CARE": 7,
+      "INSPIRED": 19,
+      "SAD": 7,
+      "ANGRY": 4,
+      "AMUSED": 11,
+      "ANNOYED": 2
+    },
+    "elapsed_ms": 41,
+    "nbr_of_words_processed": 248,
+    "nbr_of_emotional_words": 58
+  },
+  "The Lake": {
+    "emotions": {
+      "AFRAID": 0.12246015336826414,
+      "AMUSED": 0.16041048481154918,
+      "ANGRY": 0.10306155818035123,
+      "ANNOYED": 0.09821868320744961,
+      "DONT_CARE": 0.11067291358854936,
+      "HAPPY": 0.11641596325595399,
+      "INSPIRED": 0.1570515050687782,
+      "SAD": 0.13170873851910425
+    },
+    "sentiment": -0.60292,
+    "words_by_emotion": {
+      "SAD": 6,
+      "INSPIRED": 13,
+      "AMUSED": 7,
+      "HAPPY": 2,
+      "ANNOYED": 4,
+      "DONT_CARE": 5,
+      "AFRAID": 4,
+      "ANGRY": 2
+    },
+    "elapsed_ms": 25,
+    "nbr_of_words_processed": 155,
+    "nbr_of_emotional_words": 43
+  },
+  "Evening Star": {
+    "emotions": {
+      "AFRAID": 0.14365293854697345,
+      "AMUSED": 0.15754740262359884,
+      "ANGRY": 0.07159780268693537,
+      "ANNOYED": 0.09213868464670154,
+      "DONT_CARE": 0.12162996112754675,
+      "HAPPY": 0.13102621501551243,
+      "INSPIRED": 0.1804240740396907,
+      "SAD": 0.10198292131304076
+    },
+    "sentiment": 0.44055,
+    "words_by_emotion": {
+      "INSPIRED": 12,
+      "SAD": 4,
+      "DONT_CARE": 4,
+      "AFRAID": 3,
+      "AMUSED": 2,
+      "ANGRY": 2
+    },
+    "elapsed_ms": 23,
+    "nbr_of_words_processed": 108,
+    "nbr_of_emotional_words": 27
+  },
+  "Imitation": {
+    "emotions": {
+      "AFRAID": 0.09900330002383675,
+      "AMUSED": 0.14649972547013534,
+      "ANGRY": 0.09312691660305672,
+      "ANNOYED": 0.10933679944461185,
+      "DONT_CARE": 0.12311251173356523,
+      "HAPPY": 0.1255561606807488,
+      "INSPIRED": 0.17756063515288392,
+      "SAD": 0.1258039508911615
+    },
+    "sentiment": 0.512,
+    "words_by_emotion": {
+      "AMUSED": 6,
+      "SAD": 7,
+      "AFRAID": 3,
+      "INSPIRED": 16,
+      "ANGRY": 1,
+      "ANNOYED": 3,
+      "DONT_CARE": 2
+    },
+    "elapsed_ms": 18,
+    "nbr_of_words_processed": 113,
+    "nbr_of_emotional_words": 38
+  },
+  "\"The Happiest Day\"": {
+    "emotions": {
+      "AFRAID": 0.11680572899786372,
+      "AMUSED": 0.11845358002433162,
+      "ANGRY": 0.10381740171461755,
+      "ANNOYED": 0.12367896878647587,
+      "DONT_CARE": 0.11875855611400499,
+      "HAPPY": 0.12910352800485403,
+      "INSPIRED": 0.17291641974678357,
+      "SAD": 0.11646581661106865
+    },
+    "sentiment": 0.26081000000000004,
+    "words_by_emotion": {
+      "AFRAID": 11,
+      "INSPIRED": 19,
+      "SAD": 9,
+      "AMUSED": 3,
+      "ANNOYED": 4,
+      "DONT_CARE": 1
+    },
+    "elapsed_ms": 35,
+    "nbr_of_words_processed": 167,
+    "nbr_of_emotional_words": 47
+  },
+  "Dreams": {
+    "emotions": {
+      "AFRAID": 0.102954502197546,
+      "AMUSED": 0.14948487998368204,
+      "ANGRY": 0.08250144889600476,
+      "ANNOYED": 0.10437331866279778,
+      "DONT_CARE": 0.1255108988122473,
+      "HAPPY": 0.13425491939323211,
+      "INSPIRED": 0.1874376871056812,
+      "SAD": 0.11348234494880896
+    },
+    "sentiment": 0.6007454545454546,
+    "words_by_emotion": {
+      "INSPIRED": 39,
+      "ANNOYED": 4,
+      "AMUSED": 10,
+      "SAD": 18,
+      "HAPPY": 3,
+      "DONT_CARE": 5,
+      "ANGRY": 2,
+      "AFRAID": 12
+    },
+    "elapsed_ms": 44,
+    "nbr_of_words_processed": 294,
+    "nbr_of_emotional_words": 93
+  },
+  "\"In Youth I have Known One\"": {
+    "emotions": {
+      "AFRAID": 0.10533939493658515,
+      "AMUSED": 0.12928694241554237,
+      "ANGRY": 0.09978103836482469,
+      "ANNOYED": 0.11686148092336941,
+      "DONT_CARE": 0.12314114494050805,
+      "HAPPY": 0.12842596161103073,
+      "INSPIRED": 0.17497318000048598,
+      "SAD": 0.12219085680765358
+    },
+    "sentiment": 0.41351999999999994,
+    "words_by_emotion": {
+      "SAD": 8,
+      "INSPIRED": 29,
+      "HAPPY": 5,
+      "DONT_CARE": 10,
+      "AFRAID": 10,
+      "ANGRY": 5,
+      "AMUSED": 4,
+      "ANNOYED": 7
+    },
+    "elapsed_ms": 50,
+    "nbr_of_words_processed": 332,
+    "nbr_of_emotional_words": 78
+  },
+  "A PÃ¦an": {
+    "emotions": {
+      "AFRAID": 0.08522804091476908,
+      "AMUSED": 0.13077935378086458,
+      "ANGRY": 0.0985598999183035,
+      "ANNOYED": 0.11687570106272982,
+      "DONT_CARE": 0.12529450541465637,
+      "HAPPY": 0.11592136205184383,
+      "INSPIRED": 0.15508773538163986,
+      "SAD": 0.172253401475193
+    },
+    "sentiment": -0.07950833333333333,
+    "words_by_emotion": {
+      "ANGRY": 3,
+      "INSPIRED": 28,
+      "ANNOYED": 8,
+      "AMUSED": 6,
+      "SAD": 16,
+      "DONT_CARE": 8,
+      "AFRAID": 4,
+      "HAPPY": 3
+    },
+    "elapsed_ms": 47,
+    "nbr_of_words_processed": 284,
+    "nbr_of_emotional_words": 76
+  },
+  "Alone": {
+    "emotions": {
+      "AFRAID": 0.152339559824419,
+      "AMUSED": 0.14701121343966692,
+      "ANGRY": 0.08744541415608835,
+      "ANNOYED": 0.10577613215655839,
+      "DONT_CARE": 0.1354013759521898,
+      "HAPPY": 0.12384306595189343,
+      "INSPIRED": 0.13040275379821548,
+      "SAD": 0.11778048472096872
+    },
+    "sentiment": 0.3127,
+    "words_by_emotion": {
+      "INSPIRED": 8,
+      "AFRAID": 11,
+      "SAD": 3,
+      "ANNOYED": 6,
+      "AMUSED": 6,
+      "HAPPY": 2,
+      "DONT_CARE": 3
+    },
+    "elapsed_ms": 22,
+    "nbr_of_words_processed": 170,
+    "nbr_of_emotional_words": 39
+  },
+  "To Isadore": {
+    "emotions": {
+      "AFRAID": 0.08094516839531504,
+      "AMUSED": 0.1503557017089325,
+      "ANGRY": 0.08938482596785509,
+      "ANNOYED": 0.11415560136783814,
+      "DONT_CARE": 0.13863845944117936,
+      "HAPPY": 0.1456414443955539,
+      "INSPIRED": 0.1649473135185762,
+      "SAD": 0.11593148520474961
+    },
+    "sentiment": 0.34773636363636357,
+    "words_by_emotion": {
+      "SAD": 11,
+      "ANGRY": 6,
+      "INSPIRED": 22,
+      "DONT_CARE": 10,
+      "ANNOYED": 1,
+      "HAPPY": 4,
+      "AMUSED": 7,
+      "AFRAID": 4
+    },
+    "elapsed_ms": 55,
+    "nbr_of_words_processed": 276,
+    "nbr_of_emotional_words": 65
+  },
+  "The Village Street": {
+    "emotions": {
+      "AFRAID": 0.08730003225907354,
+      "AMUSED": 0.1493704948753652,
+      "ANGRY": 0.07663864601591647,
+      "ANNOYED": 0.11462915642505947,
+      "DONT_CARE": 0.13942853240650857,
+      "HAPPY": 0.14605944471914484,
+      "INSPIRED": 0.16732242809905923,
+      "SAD": 0.11925126519987263
+    },
+    "sentiment": 0.18547499999999995,
+    "words_by_emotion": {
+      "AFRAID": 8,
+      "INSPIRED": 33,
+      "SAD": 15,
+      "DONT_CARE": 16,
+      "ANNOYED": 7,
+      "AMUSED": 11,
+      "HAPPY": 5,
+      "ANGRY": 4
+    },
+    "elapsed_ms": 67,
+    "nbr_of_words_processed": 393,
+    "nbr_of_emotional_words": 99
+  },
+  "The Forest Reverie": {
+    "emotions": {
+      "AFRAID": 0.10960966049651898,
+      "AMUSED": 0.16258967508918404,
+      "ANGRY": 0.08529157409356933,
+      "ANNOYED": 0.10130208883108506,
+      "DONT_CARE": 0.13574752131056364,
+      "HAPPY": 0.12137560549977497,
+      "INSPIRED": 0.15650437509611215,
+      "SAD": 0.12757949958319179
+    },
+    "sentiment": 0.5560333333333333,
+    "words_by_emotion": {
+      "INSPIRED": 14,
+      "ANNOYED": 4,
+      "SAD": 5,
+      "DONT_CARE": 7,
+      "HAPPY": 3,
+      "AFRAID": 4,
+      "AMUSED": 10,
+      "ANGRY": 1
+    },
+    "elapsed_ms": 32,
+    "nbr_of_words_processed": 196,
+    "nbr_of_emotional_words": 48
+  },
+  "The Island of the Fay": {
+    "emotions": {
+      "AFRAID": 0.10518623404365013,
+      "AMUSED": 0.1418395856829096,
+      "ANGRY": 0.09408220649360517,
+      "ANNOYED": 0.11498513522399312,
+      "DONT_CARE": 0.12373267432075054,
+      "HAPPY": 0.13620309434910646,
+      "INSPIRED": 0.15892730693289198,
+      "SAD": 0.12504376295309294
+    },
+    "sentiment": 0.15529137931034492,
+    "words_by_emotion": {
+      "ANNOYED": 45,
+      "ANGRY": 58,
+      "SAD": 77,
+      "AMUSED": 84,
+      "HAPPY": 31,
+      "AFRAID": 71,
+      "DONT_CARE": 41,
+      "INSPIRED": 193
+    },
+    "elapsed_ms": 279,
+    "nbr_of_words_processed": 1984,
+    "nbr_of_emotional_words": 600
+  },
+  "The Power of Words": {
+    "emotions": {
+      "AFRAID": 0.10012521667856557,
+      "AMUSED": 0.14624899447204906,
+      "ANGRY": 0.10772543267437565,
+      "ANNOYED": 0.1240067434341554,
+      "DONT_CARE": 0.11789295556553232,
+      "HAPPY": 0.12441477810444963,
+      "INSPIRED": 0.1626466749733728,
+      "SAD": 0.11693920409749962
+    },
+    "sentiment": 0.18157640449438198,
+    "words_by_emotion": {
+      "DONT_CARE": 24,
+      "INSPIRED": 163,
+      "SAD": 33,
+      "AMUSED": 35,
+      "ANGRY": 40,
+      "AFRAID": 36,
+      "ANNOYED": 45,
+      "HAPPY": 15
+    },
+    "elapsed_ms": 237,
+    "nbr_of_words_processed": 1446,
+    "nbr_of_emotional_words": 391
+  },
+  "The Colloquy of Monos and Una": {
+    "emotions": {
+      "AFRAID": 0.10364885642766282,
+      "AMUSED": 0.1433347035565297,
+      "ANGRY": 0.09940358071343329,
+      "ANNOYED": 0.11211351118845184,
+      "DONT_CARE": 0.12407741033713951,
+      "HAPPY": 0.13087354351133954,
+      "INSPIRED": 0.16273829412162008,
+      "SAD": 0.12381010014382322
+    },
+    "sentiment": -0.040661077844311375,
+    "words_by_emotion": {
+      "AFRAID": 98,
+      "INSPIRED": 348,
+      "ANNOYED": 93,
+      "DONT_CARE": 67,
+      "AMUSED": 113,
+      "SAD": 144,
+      "ANGRY": 64,
+      "HAPPY": 52
+    },
+    "elapsed_ms": 529,
+    "nbr_of_words_processed": 3360,
+    "nbr_of_emotional_words": 979
+  },
+  "The Conversation of Eiros and Charmion": {
+    "emotions": {
+      "AFRAID": 0.11343900220475372,
+      "AMUSED": 0.1419836192851401,
+      "ANGRY": 0.10535576987349898,
+      "ANNOYED": 0.12572401601745548,
+      "DONT_CARE": 0.12173363019379678,
+      "HAPPY": 0.12204994011190741,
+      "INSPIRED": 0.15245127302931696,
+      "SAD": 0.11726274928413045
+    },
+    "sentiment": -0.04690314960629921,
+    "words_by_emotion": {
+      "INSPIRED": 218,
+      "SAD": 75,
+      "ANGRY": 45,
+      "DONT_CARE": 55,
+      "AMUSED": 87,
+      "AFRAID": 104,
+      "ANNOYED": 62,
+      "HAPPY": 26
+    },
+    "elapsed_ms": 343,
+    "nbr_of_words_processed": 2042,
+    "nbr_of_emotional_words": 672
+  },
+  "Shadow â€” a Parable": {
+    "emotions": {
+      "AFRAID": 0.10771474302884335,
+      "AMUSED": 0.14821099327396703,
+      "ANGRY": 0.10311368561952419,
+      "ANNOYED": 0.114284617918875,
+      "DONT_CARE": 0.11392723802354983,
+      "HAPPY": 0.1249871376099284,
+      "INSPIRED": 0.14506326033884756,
+      "SAD": 0.1426983241864646
+    },
+    "sentiment": -0.24344705882352943,
+    "words_by_emotion": {
+      "INSPIRED": 73,
+      "SAD": 52,
+      "ANNOYED": 29,
+      "AFRAID": 27,
+      "AMUSED": 43,
+      "DONT_CARE": 15,
+      "ANGRY": 13,
+      "HAPPY": 16
+    },
+    "elapsed_ms": 136,
+    "nbr_of_words_processed": 1031,
+    "nbr_of_emotional_words": 268
+  },
+  "Silence â€” a Fable": {
+    "emotions": {
+      "AFRAID": 0.1193503253612274,
+      "AMUSED": 0.15413259990800116,
+      "ANGRY": 0.0924138537877665,
+      "ANNOYED": 0.09525122712674151,
+      "DONT_CARE": 0.11412738989446851,
+      "HAPPY": 0.12487386639518139,
+      "INSPIRED": 0.1576231194450759,
+      "SAD": 0.14222761808153753
+    },
+    "sentiment": -0.08815666666666667,
+    "words_by_emotion": {
+      "INSPIRED": 92,
+      "SAD": 85,
+      "AFRAID": 40,
+      "ANNOYED": 20,
+      "DONT_CARE": 22,
+      "ANGRY": 16,
+      "AMUSED": 57,
+      "HAPPY": 11
+    },
+    "elapsed_ms": 207,
+    "nbr_of_words_processed": 1397,
+    "nbr_of_emotional_words": 343
+  }
+}
