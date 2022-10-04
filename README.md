@@ -14,10 +14,3 @@ Below are the several tasks that are performed by the notebook
 3. **Parses poems and performs sentiment analysis**: tokenizes each poem into stanzas and words using [NLTK's Punkt tokenizer](https://www.nltk.org/_modules/nltk/tokenize/punkt.html) and then plugs them into the lexicon and vader's analyzer to obtain their sentiment.
 4. **Creates a Zeitgeist of the whole collection**: using the generated data, an averaged "zeitgeist" (the sentiment) of the collection as a whole is created.
 5. **Plots pie charts to show the summary**: using matplotlib.
-
-
-## Results
-
-Below are the generated pie charts:
-
-![Zeitgeist](global_results.png)
